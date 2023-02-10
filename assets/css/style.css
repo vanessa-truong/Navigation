@@ -1,0 +1,29 @@
+body {
+    background-image: url("../img/karl-paul-baldacchino-wTTX5Qovpzo-unsplash.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 0;
+    background-color: rgba(11, 11, 11, 0.51);
+}
+
+header h1 {
+    margin-left: 50px;
+    color: white;
+}
+
+
+header nav a {
+    color: #fff;
+    font-size: 20px;
+    text-decoration: none;
+    margin-right: 50px;
+}
